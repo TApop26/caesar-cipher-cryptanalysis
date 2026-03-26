@@ -1,0 +1,1 @@
+"Frequency analysis relies on the idea that certain letters appear more frequently than others in a given language. For example, in English, the letters E, T, A, and O are among the most common, while Z and Q are the least common. No matter how a message is encrypted using the Caesar cipher, the overall letter frequency remains unchanged, only shifted."
